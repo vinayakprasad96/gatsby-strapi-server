@@ -23,6 +23,7 @@ Install gatsby CLI & strapi CLI, node 10+, npm 5+
 ```bash
 git clone https://github.com/vinayakprasad96/gatsby-strapi-server.git
 cd gatsby-strapi-server
+```
 
 ### Start the backend server
 
